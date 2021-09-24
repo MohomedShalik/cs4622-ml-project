@@ -1,5 +1,5 @@
-# cs4622-ml-project
-Pump it up :: Data Mining the Water Table challenge
+# cs4622-ml-project - Pump it up: Data Mining the Water Table challenge
+
 GitHub link : https://github.com/MohomedShalik/cs4622-ml-project
 
 ## Data pre-processing and Feature engineering
